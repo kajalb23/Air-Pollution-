@@ -69,14 +69,3 @@ The objective of this project is to forecast PM2.5 air pollution levels using mu
 
 ---
 
-## Project Structure
-
-| File/Folder                      | Description                                              |
-|----------------------------------|----------------------------------------------------------|
-| `AirPollutionMultivariate.ipynb` | Jupyter Notebook with preprocessing, modeling, and evaluation |
-| `pollution.csv`                  | Cleaned and preprocessed dataset                         |
-| `LSTM-Multivariate_pollution.csv`| Original dataset                                         |
-| `README.md`                      | Project documentation                                    |
-
----
-
